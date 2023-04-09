@@ -7,5 +7,7 @@
       "path": "TestApp"
     }
   ],
-  "settings": {}
+  "settings": {
+    "powershell.cwd": "c:\\Users\\AlaWESLETI\\Documents\\AL\\TestBCPTE\\.AL-Go"
+  }
 }
